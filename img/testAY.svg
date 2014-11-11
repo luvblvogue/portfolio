@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 260 360" enable-background="new 0 0 260 360" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="248" height="354.139" bottomLeftOrigin="true" x="6" y="-359.787"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<text transform="matrix(1 0 0 1 81.1759 350.9222)" fill="#FFC000" font-family="'Alwyn'" font-size="45">TEST</text>
+</g>
+<g>
+	<circle fill="#FFC000" cx="130" cy="129.648" r="124"/>
+</g>
+<g id="ICON_TEST">
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M125.323,123.962c1.385,0,2.512,1.207,2.512,2.69c0,1.483-1.127,2.69-2.512,2.69s-2.512-1.207-2.512-2.69
+				C122.811,125.168,123.938,123.962,125.323,123.962 M125.323,119.762c-3.709,0-6.712,3.083-6.712,6.89
+				c0,3.807,3.004,6.89,6.712,6.89s6.712-3.083,6.712-6.89C132.035,122.845,129.032,119.762,125.323,119.762L125.323,119.762z"/>
+		</g>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M98.67,133.611"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M87.896,175.447l24.726-71.195c0,0,0-6.333,0-6.537V67.559h-8.192"/>
+	</g>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M161.33,133.61"/>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M155.57,67.558h-8.192v30.157c0,0.204,0,6.537,0,6.537l24.726,71.195"/>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M172.103,175.445c0.5,1.389,0.516,2.567,0.516,4.135c0,7.103-5.61,12.861-12.53,12.861h-31.432
+		c0.001,0.001-28.746,0.001-28.746,0.001c-6.92,0-12.53-5.758-12.53-12.861c0-1.568,0.016-2.746,0.516-4.135"/>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M114.583,152.547c2.126,0,3.855,1.825,3.855,4.068s-1.729,4.068-3.855,4.068s-3.855-1.825-3.855-4.068
+				S112.458,152.547,114.583,152.547 M114.583,148.347c-4.45,0-8.055,3.7-8.055,8.268s3.605,8.268,8.055,8.268
+				c4.45,0,8.055-3.7,8.055-8.268S119.034,148.347,114.583,148.347L114.583,148.347z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M143.257,163.571c3.606,0,6.54,3.061,6.54,6.824s-2.934,6.824-6.54,6.824s-6.54-3.061-6.54-6.824
+				S139.651,163.571,143.257,163.571 M143.257,159.371c-5.934,0-10.74,4.933-10.74,11.024c0,6.091,4.806,11.024,10.74,11.024
+				c5.934,0,10.74-4.933,10.74-11.024C153.997,164.304,149.191,159.371,143.257,159.371L143.257,159.371z"/>
+		</g>
+	</g>
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="100.202" y1="140.079" x2="159.271" y2="140.079"/>
+</g>
+</svg>

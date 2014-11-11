@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 260 360" enable-background="new 0 0 260 360" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="248" height="353.153" bottomLeftOrigin="true" x="6" y="-358.802"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<text transform="matrix(1 0 0 1 86.6003 350.9222)" fill="#FFFFFF" font-family="'Alwyn'" font-size="40">TEST</text>
+</g>
+<g>
+	<path fill="#FFC000" d="M130,7.648c32.587,0,63.224,12.69,86.267,35.733S252,97.061,252,129.648s-12.69,63.224-35.733,86.267
+		s-53.68,35.733-86.267,35.733s-63.224-12.69-86.267-35.733S8,162.236,8,129.648s12.69-63.224,35.733-86.267S97.413,7.648,130,7.648
+		 M130,5.648c-68.483,0-124,55.517-124,124s55.517,124,124,124s124-55.517,124-124S198.483,5.648,130,5.648L130,5.648z"/>
+</g>
+<g id="ICON_TEST">
+	<g>
+		<g>
+			<path fill="#FFC000" d="M125.323,123.059c1.883,0,3.415,1.612,3.415,3.593s-1.532,3.593-3.415,3.593s-3.415-1.612-3.415-3.593
+				S123.44,123.059,125.323,123.059 M125.323,119.762c-3.709,0-6.712,3.083-6.712,6.89c0,3.807,3.004,6.89,6.712,6.89
+				c3.709,0,6.712-3.083,6.712-6.89C132.035,122.845,129.032,119.762,125.323,119.762L125.323,119.762z"/>
+		</g>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M98.67,133.611"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M87.896,175.447l24.726-71.195c0,0,0-6.333,0-6.537V67.559h-8.192"/>
+	</g>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M161.33,133.61"/>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M155.57,67.558h-8.192v30.157c0,0.204,0,6.537,0,6.537l24.726,71.195"/>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M172.103,175.445c0.5,1.389,0.516,2.567,0.516,4.135c0,7.103-5.61,12.861-12.53,12.861h-31.432
+		c0.001,0.001-28.746,0.001-28.746,0.001c-6.92,0-12.53-5.758-12.53-12.861c0-1.568,0.016-2.746,0.516-4.135"/>
+	<g>
+		<g>
+			<path fill="#FFC000" d="M114.583,151.644c2.623,0,4.758,2.23,4.758,4.971s-2.134,4.971-4.758,4.971s-4.758-2.23-4.758-4.971
+				S111.96,151.644,114.583,151.644 M114.583,148.347c-4.45,0-8.055,3.7-8.055,8.268s3.605,8.268,8.055,8.268s8.055-3.7,8.055-8.268
+				S119.034,148.347,114.583,148.347L114.583,148.347z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFC000" d="M143.257,162.668c4.104,0,7.443,3.466,7.443,7.727s-3.339,7.727-7.443,7.727
+				c-4.104,0-7.443-3.466-7.443-7.727S139.153,162.668,143.257,162.668 M143.257,159.371c-5.934,0-10.74,4.933-10.74,11.024
+				c0,6.091,4.806,11.024,10.74,11.024c5.934,0,10.74-4.933,10.74-11.024C153.997,164.304,149.191,159.371,143.257,159.371
+				L143.257,159.371z"/>
+		</g>
+	</g>
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="100.202" y1="140.079" x2="159.271" y2="140.079"/>
+</g>
+</svg>

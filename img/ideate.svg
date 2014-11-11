@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 260 360" enable-background="new 0 0 260 360" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="248" height="353.153" bottomLeftOrigin="true" x="6" y="-358.802"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<path fill="#FFC000" d="M130,7.648c32.587,0,63.224,12.69,86.267,35.733S252,97.061,252,129.648s-12.69,63.224-35.733,86.267
+		s-53.68,35.733-86.267,35.733s-63.224-12.69-86.267-35.733S8,162.236,8,129.648s12.69-63.224,35.733-86.267S97.413,7.648,130,7.648
+		 M130,5.648c-68.483,0-124,55.517-124,124s55.517,124,124,124s124-55.517,124-124S198.483,5.648,130,5.648L130,5.648z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 67.6056 350.9222)" fill="#FFFFFF" font-family="'Alwyn'" font-size="40">IDEATE</text>
+</g>
+<g id="icon_ideate">
+	<g>
+		<path fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linejoin="round" stroke-miterlimit="10" d="M131.152,125.451
+			l5.685,5.728l0.01-0.01c2.002,1.931,4.703,3.125,7.68,3.125c6.145,0,11.145-5.058,11.145-11.274c0-6.216-5-11.274-11.145-11.274
+			c-2.838,0-5.423,1.087-7.392,2.861l-0.007-0.007l-14.899,14.96l-0.003,0.001c-1.72,1.842-4.15,2.999-6.847,2.999
+			c-5.2,0-9.43-4.279-9.43-9.539c0-5.26,4.23-9.539,9.43-9.539c2.518,0,4.803,1.009,6.496,2.641l0.001-0.009l0.087,0.077l4.162,4.28
+			"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M145.43,196.44h-31.576 M145.43,189.069h-31.576 M146.644,160.763v16.02c0,2.703-2.186,4.914-4.858,4.914h-24.289
+			c-2.672,0-4.858-2.211-4.858-4.914v-16.02c-14.306-6.56-24.289-21.106-24.289-38.035c0-23.072,18.484-41.77,41.292-41.77
+			s41.292,18.698,41.292,41.77C170.933,139.657,160.95,154.203,146.644,160.763z"/>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="73.511" y1="135.539" x2="63.596" y2="138.798"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="75.072" y1="99.95" x2="65.158" y2="96.691"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="97.017" y1="72.093" x2="90.887" y2="63.56"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="196.404" y1="138.798" x2="186.491" y2="135.539"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="194.842" y1="96.691" x2="184.93" y2="99.95"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#FFC000" stroke-width="3.297" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="169.113" y1="63.56" x2="162.986" y2="72.093"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

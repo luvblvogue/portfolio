@@ -1,0 +1,5871 @@
+
+    .primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    float: none;
+    clear: none;
+    min-width: 100%;
+    max-width: 100%;
+    background-color: rgb(247, 247, 247);
+    position: relative;
+    font-family: "alwyn-new-rounded-web", mic-32-new-rounded-web, Open Sans, Roboto, Helvetica Neue, sans-serif;      
+    }
+
+
+#sectionProcess {
+    float: none;
+    height: auto;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    background-color: rgb(245, 245, 245);
+    background-image:url("img/bkgProcess.png");
+    background-attachment: scroll;
+    background-size: cover;
+    max-width: 100%;
+    position: relative;
+    z-index: auto;
+    top: 0px;
+    left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#sectionWorks {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 100%;
+    background-color: rgb(245, 245, 245);
+    max-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#sectionSkills {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-image:url("img/bkgSkills.png");
+    background-attachment: scroll;
+    background-size: cover;
+    min-width: 100%;
+    max-width: 100%;
+    opacity: 0.96;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#sectionExperience {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-image:url("img/bkg_experience.png");
+    background-attachment: scroll;
+    background-size: cover;
+    min-width: 100%;
+    max-width: 100%;
+    opacity: 0.96;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#BoxProcessIcons {
+    float: none;
+    height: 32.752849%;
+    margin: 5% auto 8.8%;
+    clear: none;
+    width: 79.999337%;
+    min-width: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#TextTitle_Works {
+    float: none;
+    font-size: 1.2em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 0.8%;
+    clear: none;
+    min-height: 0px;
+    
+    color: rgb(247, 247, 247);
+    letter-spacing: normal;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 75%;
+    max-width: 100%;
+}
+
+#IconBox {
+    float: left;
+    height: auto;
+    margin-left: 8.193009%;
+    margin-top: 6.3%;
+    clear: none;
+    width: 21.811969%;
+    margin-bottom: 2.101576%;
+    min-width: 21.81%;
+}
+
+#Box_TEXT {
+    float: left;
+    height: 4.703966%;
+    margin-left: 0%;
+    margin-top: 6.3%;
+    clear: none;
+    width: 48.8%;
+}
+
+#UIText {
+    float: left;
+    font-size: 0.9em;
+    color: rgb(97, 96, 103);
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-left : 0.8em; 
+	text-indent : -0.8em ;
+	margin-top: 3%;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0px;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 0.9em;
+    line-height: normal;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#boxUIWorkIcons {
+    float: left;
+    height: auto;
+    margin-left: 8.193009%;
+    margin-top: 0px;
+    clear: both;
+    width: 88%;
+    min-width: 80%;
+    max-width: 88%;
+}
+
+#IconBox1 {
+    float: left;
+    height: auto;
+    margin: 4.203152% 0% 2.101576% 8.192871%;
+    clear: both;
+    width: 21.811969%;
+    min-width: 21.81%;
+}
+
+#boxDesignWorkIcons {
+    float: left;
+    height: auto;
+    margin-left: 8.193009%;
+    margin-top: 0px;
+    clear: both;
+    width: 87.805202%;
+    margin-bottom: 5.604203%;
+    min-width: 80%;
+}
+
+#Box_experienceTimeLine {
+    float: none;
+    height: auto;
+    margin: 7.8% auto 4.21875%;
+    clear: none;
+    width: 80%;
+    min-width: 80%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    max-width: 80%;
+}
+
+#Box_EducationTimeLine {
+    float: none;
+    height: auto;
+    margin: 8.6% auto 4.21875%;
+    clear: none;
+    width: 80%;
+    min-width: 80%;
+    max-width: 80%;
+}
+
+#Box_skillicons {
+    float: none;
+    height: auto;
+    margin: 6% auto 7.125%;
+    clear: none;
+    width: 80%;
+    min-width: 80%;
+    max-width: 80%;
+}
+
+body {
+    color: rgb(68, 68, 72);
+    
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+#text1 {
+    float: left;
+    font-size: 0.8em;
+    color: white;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    padding-top: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#BoxWork {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 1.708309%;
+    clear: none;
+    width: 24.840379%;
+    margin-bottom: 0%;
+    min-width: 24.84%;
+    min-height: 31.522125%;
+    max-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#BoxDesignWork {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 1.708309%;
+    clear: none;
+    width: 24.839429%;
+    min-height: 31.52%;
+    margin-bottom: 1.281231%;
+    min-width: 24.84%;
+}
+
+#TitleBox {
+    float: none;
+    height: 50px;
+    margin-left: auto;
+    margin-top: 7.218684%;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 0px;
+    margin-right: auto;
+}
+
+#ImgExperience {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 4.886211% auto 6%;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 80%;
+}
+
+#ImgEducation {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto 6%;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 80%;
+}
+
+#BoxApp {
+    float: left;
+    height: 22.921606%;
+    margin-left: 2.548676%;
+    margin-top: 1.42%;   /*margin-top: 2.68%;*/
+    clear: none;
+    width: 10.230216%;
+    min-height: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 10.23%;
+}
+
+
+#AI {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#DW {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#FL {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#AE {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#FW {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#AN {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#RF {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#InDesign {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#painter {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#html5CSS3 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Balsamiq {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Visio {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#blender {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#Sculptris {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+
+#_123D {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#text2 {
+    float: left;
+    
+    font-size: 0.8em;
+    color: white;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-left: 0%;
+    margin-top: 4%;
+    margin-bottom: -1%
+    clear: both;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+
+#Mac {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+}
+
+
+#Win {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#Android {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#BoxAppL {
+    float: left;
+    height: 22.921606%;
+    margin-left: 0%;
+    margin-top: 1.42%;   /*margin-top: 2.68%%;*/
+    clear: both;		/* clear: none; */
+    width: 10.230216%;
+    min-height: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 10.23%;
+}
+
+#appicon {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    max-width: 100%;
+    margin-right: auto;
+}
+
+#PS {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    display: block;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#BoxAppbalsamiq {
+    float: left;
+    height: 22.935272%;
+    margin-left: 2.314699%;
+    margin-top: 1.42%;   /*margin-top: 2.68%%;*/
+    clear: none;
+    width: 10.708615%;
+    min-height: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 10.71%;
+}
+
+#BoxDesignWork1 {
+    float: left;
+    height: auto;
+    margin: 1.708309% 0% 1.281231% 0.20214984%;
+    clear: none;
+    width: 24.839429%;
+    min-height: 31.52%;
+    min-width: 24.84%;
+}
+
+
+/*#BoxWork1 {
+    float: left;
+    height: auto;
+    margin: 1.708309% 0% 0% 0.20214984%;
+    clear: none;
+    width: 24.840379%;
+    min-width: 24.84%;
+    max-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-height: 31.52%;
+}
+*/
+
+#icon_empathize {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+    -webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+#icon_empathize:hover{
+opacity: 
+} 
+
+.change-image{
+
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+.change-image:hover{
+opacity: 1
+}
+
+#text {
+    float: left;
+    font-size: 0.8em;
+    
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 1%;
+    margin-top: 3%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(35, 31, 32);
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgEmpathize {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#iconempathize {
+    float: left;
+    height: auto;
+    margin-left: 0.4%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    padding-left: 0px;
+    cursor: crosshair;
+}
+
+#sectionHeader {
+    float: none;
+    height: auto;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    position: relative;
+    min-width: 100%;
+    max-width: 100%;
+    background-image:url("img/bkg_header.png");
+    background-attachment: scroll;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#Box_photo {
+    float: left;
+    height: auto;
+    clear: none;
+    width: 11.464968%;
+    min-height: 0px;
+    position: absolute;
+    top: 70.8%;
+    left: 6.4%;
+    bottom: auto;
+    right: auto;
+    z-index: 1;
+    min-width: 11.46%;
+}
+
+#photo {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#myphoto {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#cv {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 80%;
+    clear: both;
+    width: 100%;
+    min-height: 20px;
+    min-width: 90%;
+    max-width: 100%;
+}
+
+#cvdownload {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 20px;
+    min-width: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#cvpdf {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#iconprocess {
+    float: left;
+    height: auto;
+    margin-left: 6.2%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    cursor: crosshair;
+}
+
+#icon_define {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgDefine {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#ideate {
+    float: left;
+    height: auto;
+    margin-left: 6.2%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    margin-right: 0%;
+    cursor: crosshair;
+}
+
+#icon_ideate {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgIdeate {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#test {
+    float: left;
+    height: auto;
+    margin-left: 6.2%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    cursor: crosshair;
+}
+
+#icon_test {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    max-width: 100%;
+}
+
+#ImgTest {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#BoxLogo {
+    float: none;
+    height: auto;
+    margin: 10% auto 10.6%;
+    clear: none;
+    width: 13.060642%;
+    min-height: 0px;
+    min-width: 13.06%;
+}
+
+#logoimg {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#logo {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+    z-index: 600;
+    border-bottom-left-radius: 0px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#sectionSummary {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#BoxSummary {
+    float: left;
+    height: auto;
+    margin: 4.8% 0px 3.397028% 21.6%;
+    clear: none;
+    width: 65%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 65%;
+}
+
+#sectionResume {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 25.603122%;
+    min-height: 0px;
+    min-width: 25.6%;
+}
+
+#summary {
+    float: none;
+    font-size: 1.15em;
+    
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 0.8%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(35, 31, 32);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgResume {
+    float: left;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#TitleBoxSummary {
+    float: none;
+    height: auto;
+    margin: 8.975291% auto 3%;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 53.55%;
+}
+/*#TitleBoxSummary {
+    float: left;
+    height: auto;
+    margin-left: 18%;
+    margin-top: 4.327357%;
+    clear: both;
+    width: 53.547994%;
+    min-height: 0px;
+    min-width: 53.55%;
+    margin-bottom: 3%;
+}*/
+
+#Boxcompetence {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 2.810099%;
+    clear: none;
+    width: 89.99878%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 90%;
+}
+
+#competence {
+    float: left;
+    height: 100%;
+    margin-left: 10%;
+    margin-top: 0px;
+    clear: none;
+    width: 71.998916%;
+    min-height: 100%;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 72%;
+}
+
+#Imgcompetence {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 70%;
+}
+
+#prototype {
+    float: left;
+    height: auto;
+    margin-left: 6.2%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    margin-right: 0%;
+    cursor: crosshair;
+}
+
+#icon_prototype {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#design {
+    float: left;
+    height: auto;
+    margin-left: 6.2%;
+    margin-top: 0px;
+    clear: none;
+    width: 11.382957%;
+    min-width: 11.38%;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    cursor: crosshair;
+}
+
+#icon_design {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    max-width: 100%;
+}
+
+#ImgDesign {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#WorkIconBox {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 94%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgScenario {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 94%;
+    min-height: 0px;
+}
+
+#ImgConcept {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-height: 0px;
+}
+
+#ImgSolution {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 94%;
+    min-height: 0px;
+}
+
+#ImgFlow {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#ImgWireframe {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgInteraction {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgPrototype {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgABtesting {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgMoodBoard {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgIconDesign {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgUIdesign {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#ImgIdentity {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#ImgGraphics {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#Img3DPrinting {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+#ProblemSolving {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 94%;
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#iconDesign {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 80%;
+    margin-right: 0px;
+}
+
+#iconUI {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#UIimg {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 80%;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgDesignRelated {
+    float: left;
+    width: auto;
+    max-width: 88%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 88%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    opacity: 0.8;
+    padding-left: 1.2%;
+}
+
+#ImgUI {
+    float: left;
+    width: auto;
+    max-width: 88%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 88%;
+    opacity: 0.96;
+    min-height: 0px;
+    padding-top: 0px;
+    padding-left: 1.2%;
+}
+
+#ImgPersona {
+    float: none;
+    width: auto;
+    max-width: 96%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 94%;
+}
+
+#BoxFixedHeader {
+    float: left;
+    height: auto;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    position: fixed;
+    min-width: 100%;
+    background-color: rgb(252, 252, 252);
+    box-shadow: rgb(0, 0, 0) 0px 0px 5px;
+    opacity: 0.75;
+    z-index: 300;
+}
+
+#BoxNav {
+    float: right;
+    height: auto;
+    margin: 2.229299% 4% 1% 0px;
+    clear: none;
+    width: 90%;
+    min-height: 0px;
+}
+
+#portfolio {
+    float: right;
+    font-size: 0.8em;  
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    text-transform: uppercase;
+    margin-right: 3%;
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#experience {
+    float: right;
+    font-size: 0.8em;
+    
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 3%;
+    text-transform: uppercase;
+}
+
+#about {
+    float: right;
+    font-size: 0.8em;
+    
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 3%;
+    text-transform: uppercase;
+}
+
+#contact {
+    float: right;
+    font-size: 0.8em;
+    
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 0%;
+    text-transform: uppercase;
+}
+
+#BoxDline {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0.7em;  /* 10px; */
+    clear: none;
+    width: 36%;
+    min-height: 0.7em;
+    min-width: 36%;
+    max-width: 36%;
+    margin-right: auto;
+}
+
+
+#imgDline {
+    width: auto;
+    max-width: 80%;
+    height: auto;
+    left: 0;
+    margin: 2px auto 0;
+    color: rgb(0, 0, 0);
+    min-width: 48%;
+    position: relative;
+}
+
+#SummaryContent {
+    float: none;
+    font-size: 0.9em;
+    color: rgb(97, 96, 103);
+    width: 90%;
+    height: auto;
+    text-align: left; /* text-align: justify; */
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-left : 1em; 
+	text-indent : -1em ;
+    margin: 0% auto 1.236227%;
+    clear: both;      /* clear: none; */
+    min-height: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    max-width: 90%;
+    min-width: 90%;
+    padding-left: 0.4683498%; /* 3px */
+}
+
+#textspan {
+    font-size: 0.9em;
+    line-height: 1.2em;
+    
+    font-weight: 300;
+    float: none;
+}
+
+#dividerY {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+    
+}
+
+#ImgdividerY {
+    float: none;
+    width: auto;
+    max-width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 1.061571%;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 0px;
+    
+}
+
+
+#textspan3 {
+    float: none;
+    font-size: 1.1em;
+    font-weight: 400
+    line-height: 1em;
+    color: rgb(68, 68, 72);
+    /*color: rgb(36, 39, 42);*/
+}
+
+
+#name {
+    float: left;
+    font-size: 0.805em;
+    
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1.2em;
+    margin-left: 0%;
+    margin-top: 0%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    text-transform: uppercase;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.5px;
+    padding-left: 0px;
+    min-width: 0px;
+}
+
+#position {
+    float: left;
+    font-size: 0.81em;
+    
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 4.68%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 0px;
+    letter-spacing: 0.3px;
+    padding-left: 0px;
+    min-width: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#BoxgoTop {
+    float: right;
+    height: auto;
+    clear: none;
+    width: auto;
+    position: fixed;
+    top: 89.274448%;
+    left: 88%;
+    min-width: 5.307856%;
+    z-index: 200;
+    bottom: auto;
+    right: 5%;
+    min-height: 0px;  /* 8% */
+    padding: 0px;
+}
+
+#btnTop {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 79.981047%;
+    min-height: 0px;
+    min-width: 80%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#ImggoTop {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 60%;
+    margin-right: auto;
+    opacity: 0.75;
+    min-height: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#BoxInfo {
+    float: left;
+    height: auto;
+    margin-left: 12%;
+    margin-top: 9.6%;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#portfolio:hover {
+    color: rgb(255, 184, 0);
+    font-weight: 400;
+    font-size: 0.9em;
+    
+}
+
+#portfolio:active {
+    color: rgb(255, 184, 0);
+    font-weight: 400;
+    font-size: 0.9em;
+    
+}
+
+#experience:hover {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+    
+}
+
+#experience:active {
+    color: rgb(255, 192, 32);
+    font-weight: 400;
+    font-size: 0.9em;
+    
+}
+
+#about:hover {
+    color: rgb(255, 184, 0);
+    font-weight: 400;
+    font-size: 0.9em;
+    
+}
+
+#about:active {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+    
+}
+
+#contact:hover {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+    
+}
+
+#contact:active {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+    
+}
+
+
+#sectionPortfolio {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    opacity: 1;
+    box-shadow: rgb(218, 218, 218) 0px 0px 1px 0px;
+    margin-right: auto;
+    min-height: 60px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+
+#TextTitle_Portfolio {
+    float: none;
+    font-size: 1.1em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 0.8%;
+    clear: none;
+    min-height: 0px;
+    
+    color: rgb(247, 247, 247);
+    letter-spacing: normal;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#sectionProjects {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 2.4%;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 100%;
+    margin-right: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#Box_Project {
+    float: left;
+    height: auto;
+    margin: 0% 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#Project1L {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+}
+
+#ImgiReserveKiosk {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project1R {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 30.999536%;
+    min-height: 50px;
+    min-width: 31%;
+    margin-right: 0px;
+}
+
+#Box_Project1 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 0px;
+}
+
+#Project2R {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+}
+
+#Box_Project3 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#Project5R {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+}
+
+#Box_Project4 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#sectionToolsnInterest {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    max-width: 100%;
+    
+}
+
+#sectionTools {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(68, 68, 72);
+    
+}
+
+
+#BoxTools {
+    float: none;
+    height: auto;
+    margin: 8.8% auto 8%;
+    clear: none;
+    width: 87.5%;
+    min-height: 50px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 87.5%;
+    
+}
+
+#toolimg {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 8.888763%;
+    min-height: 50px;
+    min-width: 8.89%;
+    cursor:none;
+}
+
+#Imgmac {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#toolimg1 {
+    float: left;
+    height: auto;
+    margin-left: 1.22%;
+    margin-top: 0px;
+    clear: none;
+    width: 8.888763%;
+    min-height: 50px;
+    margin-right: 0%;
+    min-width: 8.89%;
+    
+}
+
+#toolimgbike {
+    float: left;
+    height: auto;
+    margin-left: 1.22%;
+    margin-top: 0px;
+    clear: none;
+    width: 8.888763%;
+    min-height: 50px;
+    margin-right: 0%;
+    min-width: 8.89%;
+    
+}
+
+
+#Imgwacom {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Imgipad {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Imgdrawing {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Imgbrowser {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#Imgmindmap {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#Imgmemo {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#Imgtrello {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#Imgkular {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#Imgpantone {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#sectionThings {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(57, 62, 66);
+    
+}
+
+
+#BoxThings {
+    float: none;
+    height: auto;
+    margin: 8.8% auto 8%;
+    clear: none;
+    width: 87.5%;
+    min-height: 50px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 87.5%;
+}
+
+
+#iconCamara {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#iconBook {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#iconBrowser {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#iconLego {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+
+#iconTraveling {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#iconBike {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#iconDiving {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#iconMusic {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+}
+
+#iconMovie {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+
+#iconGame {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#sectionContact {
+    float: left;
+    height: auto;
+     clear: both;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+     margin-left: 0%;
+    margin-top: 0px;
+ 
+    max-width: 100%;
+    position: relative;
+    
+}
+
+#BigBoxContent {
+    float: left;
+    height: auto;
+    clear: none;
+    width: 79.999337%;
+    min-height: 50px;
+    min-width: 0px;
+    max-width: 80%;
+    position: absolute;
+    top: 18%;
+    left: 10%;
+    z-index: 2;
+    right: auto;
+    bottom: auto;
+}
+
+
+
+#BoxFooter {
+    float: none;
+    height: 48px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    min-height: 48px;
+    min-width: 100%;
+    margin-right: auto;
+    background-color: rgb(68, 68, 72);
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#Txtfooter1 {
+    float: none;
+    font-size: .64em;
+    
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 2%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(148, 148, 148);
+    text-transform: none;
+    margin-right: auto;
+    letter-spacing: -0.0333em;
+}
+
+#Box_Project2 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#Project4L {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+    margin-right: 0px;
+}
+
+#Project4L1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgPanpatch {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project4R {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 30.999536%;
+    min-height: 50px;
+    min-width: 31%;
+}
+
+#ImgComputex {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+
+
+/* Fade Effect */
+
+.no-touch {
+	background: #FFF;
+}
+.no-touch .fade {
+	-webkit-transition: opacity 0.3s linear;
+	-moz-transition: opacity 0.3s linear;
+	-o-transition: opacity 0.3s linear;
+	-ms-transition: opacity 0.3s linear;
+	transition: opacity 0.3s linear;
+}
+.no-touch .fade.outOfView {
+	opacity: 0;
+}
+.no-touch .fade.inView {
+opacity: 1;
+}
+
+
+.photo-grid {
+	text-align: left;
+
+	/*font-size: 1em; 
+	font-weight: 200; */
+	margin:0,0,0,0px;
+}
+	 
+.photo-grid img {
+	float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;   
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+	display: block;	
+}
+
+ 
+.photo-grid figure {
+	height: auto;
+	overflow: hidden;
+	position: relative;
+	width: auto;    
+    margin-left: 0%;
+}
+ 
+.photo-grid figcaption {
+	background: rgba(0,0,0,0.60);
+	color: white;
+	display: block;  
+	height: 100%;
+	left: 0%;
+	opacity: 0;
+	margin-left: 0px;
+	position: absolute;
+	right: 0;
+	top: 0px;
+	z-index: 100;
+}
+ 
+.photo-grid figcaption p {
+	display: bolck;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	position: static;
+	top: 0px;    
+	width: auto;   
+	margin-left: 0%;
+}
+
+.photo-grid figcaption h2 {
+	display: block;
+	font-size: 1em;
+	text-transform: uppercase;
+	position: static;
+	top: 0px;
+	width: auto;   
+	margin-left: 0%;
+}
+
+
+/* Show txt on hover*/
+
+.photo-grid pwork:hover figcaption {
+	opacity: 0.9;
+	cursor: crosshair;
+}
+
+.photo-grid img {
+	-webkit-transition: all 300ms;
+	-moz-transition: all 300ms;
+	transition: all 300ms;
+	width: auto;
+	max-width: 100%;
+	min-width: 100%;
+	height: auto;
+    margin-left: auto;   
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+	display: block;	
+	cursor: crosshair;
+}
+	
+ 
+ /* 0PACITY the images */
+ 
+ .photo-grid pwork:hover img {
+	-webkit-transform: opacity: 0.6;;
+	-moz-transform: opacity: 0.6;;
+	transform: opacity: 0.6;;
+	cursor: crosshair;
+}
+
+/* Drop in the text */
+/* large img */
+.photo-grid figcaption p {
+	display: block;  
+	font-size: 0.9em;
+	font-weight: 200
+	
+	position: relative;
+	margin-top: -10% 
+	width: auto;	
+	max-width: 100%;
+	min-width: 100%;
+	height: auto;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+	cursor: crosshair;
+	/* vertical-align:-webkit-baseline-middle; */
+}
+
+.photo-grid figcaption h2 {
+	display: block;  
+	font-size: 1em;
+	font-weight: 200
+	
+	position: relative;
+	
+	left: 0px;
+	width: auto;	
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+	cursor: crosshair;
+	/* vertical-align:bottom ; */
+}
+
+ 
+.photo-grid pwork:hover figcaption p {
+	-moz-transform: translateY(80%);
+	-webkit-transform: translateY(80%);
+	transform: translateY(80%);
+	cursor: crosshair;
+	}
+
+.photo-grid pwork:hover figcaption h2 {
+	-moz-transform: translateY(80%);
+	-webkit-transform: translateY(80%);
+	transform: translateY(80%);
+	cursor: crosshair;
+	}
+
+
+
+/* Fade in the caption */
+.photo-grid figcaption {
+	background: rgba(0,0,0,0.7);
+	color: white;
+	display: bolck;  
+	width: 100%;
+	height: 100%;
+	max-width: 100%;
+	min-width: 100%
+	left: 0%;
+	opacity: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	-webkit-transition: all 300ms;
+	-moz-transition: all 300ms;
+	transition: all 300ms;
+	-webkit-transition-delay: 100ms;
+	-moz-transition-delay: 100ms;
+	transition-delay: 100ms;
+	z-index: 100;
+	cursor: crosshair;
+}
+
+#projecthovertxt {
+left: 6%;
+bottom:4%
+max-width: 90%;
+max-height: 30px
+min-height: 30px;
+position: absolute;
+margin-top: 18%
+margin-bottom: 4%
+width: 100%;
+height: auto;
+z-index: 100;
+cursor: crosshair;
+}
+
+
+#Project1R2 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgiReserveIcon {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project1R1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgiReserveApp {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imginventory {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0%;
+}
+
+#ImgInventory {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project2L {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 30.999536%;
+    min-height: 0px;
+    min-width: 31%;
+    margin-right: 0px;
+}
+
+#Project2L1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgNTCL {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project2L2 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 0px;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgireserveicon {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Box_Project6 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+}
+
+#Project7L {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgNTLweb {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 100%;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0%;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0%;
+}
+
+#img7NTL {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+}
+
+#Box_Project9 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+}
+
+#Box_Project10 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#BoxGraphics {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    background-color: rgb(36, 39, 42);
+    cursor:crosshair;
+}
+
+#BoxSGraphic {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 20%;
+    min-height: 0px;
+    min-width: 20%;
+    margin-right: 0%;
+}
+
+#GraphicImg {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 100%;
+}
+
+#imggraphics01 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+}
+
+#imggraphics02 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics03 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics04 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics05 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics06 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics07 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics08 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics09 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics10 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+#imggraphics11 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics12 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics13 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics14 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics15 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics16 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics17 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics18 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics19 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+
+#imggraphics20 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+}
+
+#Box_Project5 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: 0%;
+}
+
+#Box_Project7 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: 0%;
+}
+
+#Project8 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#topNTL {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+}
+
+#Project8L {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 30.999536%;
+    min-height: 50px;
+    min-width: 31%;
+    margin-right: 0px;
+}
+
+#Project8L1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgVIcube1 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project8L2 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#imgVIcube11 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project8R {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+}
+
+#imgVIGuide {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Box_Project8 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    margin-right: 0%;
+    min-height: 50px;
+    min-width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+#Project9L {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+    margin-right: 0%;
+}
+
+#Project9L1 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+}
+
+#ImgVI1 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project9L2 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 44.918025%;
+    min-height: 50px;
+    min-width: 44.92%;
+}
+
+#ImgVI4 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project9L3 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 55.079571%;
+    min-height: 50px;
+    min-width: 55.08%;
+}
+
+#ImgVI5 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project9R {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 30.999536%;
+    min-height: 0px;
+    min-width: 31%;
+    margin-right: 0%;
+    background-color: rgb(0, 0, 0);
+}
+
+#Project9R1 {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgVI2 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-height: 50px;
+}
+
+#Project9R2 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#ImgVI6 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-height: 50px;
+    opacity: 1;
+}
+
+#Project9R3 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#ImgVI3 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-height: 50px;
+}
+
+#Project3L {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project6L {
+    float: left;
+    height: auto;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 55.559979%;
+    min-height: 50px;
+    min-width: 55.56%;
+}
+
+#ImgGIFTweb {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#Project6R {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 44.438363%;
+    min-height: 50px;
+    min-width: 0px;
+    margin-right: 0px;
+}
+
+#Project6R1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgGIFTapp {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project6R2 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgGIFTwork {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+}
+
+#Project5L {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 30.999536%;
+    min-height: 50px;
+    min-width: 31%;
+    margin-right: 0px;
+}
+
+#Project5L1 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#ImgMiomap {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Project5R1 {
+    float: left;
+    height: auto;
+    margin: 0.375px 0px 0px 0%;
+    clear: none;
+    width: 68.998806%;
+    min-height: 50px;
+    min-width: 69%;
+}
+
+#ImgCoffee1 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+}
+
+#ImgNTLkiosk {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-height: 50px;
+}
+
+#ImgEmpathize:hover {
+    opacity: 1;
+}
+
+#iconprocess:hover {
+    opacity: 0.9;
+}
+
+#ideate:hover {
+    opacity: 0.9;
+}
+
+#prototype:hover {
+    opacity: 0.9;
+}
+
+#test:hover {
+    opacity: 0.9;
+}
+
+#design:hover {
+    opacity: 0.9;
+}
+
+#iconempathize:active {
+    opacity: 0.9;
+}
+
+#iconprocess:active {
+    opacity: 0.9;
+}
+
+#ideate:active {
+    opacity: 0.9;
+}
+
+#prototype:active {
+    opacity: 0.9;
+}
+
+#test:active {
+    opacity: 0.9;
+}
+
+#design:active {
+    opacity: 0.9;
+}
+
+#iconempathize:focus {
+    opacity: 1;
+}
+
+
+#sectionPortfolio:hover {
+    opacity: 1;
+}
+
+#ImgiReserveKiosk:hover {
+    opacity: 0.48;
+}
+
+#ImgiReserveApp:hover {
+    opacity: 0.48;
+}
+
+#ImgiReserveIcon:hover {
+    opacity: 0.48;
+}
+
+#imgNTCL:hover {
+    opacity: 0.48;
+}
+
+#ImgInventory:hover {
+    opacity: 0.48;
+}
+
+#ImgPanpatch:hover {
+    opacity: 0.48;
+}
+
+#ImgComputex:hover {
+    opacity: 0.48;
+}
+
+#ImgNTLkiosk:hover {
+    opacity: 0.48;
+}
+
+#ImgMiomap:hover {
+    opacity: 0.48;
+}
+
+#ImgCoffee1:hover {
+    opacity: 0.48;
+}
+
+#ImgGIFTweb:hover {
+    opacity: 0.48;
+}
+
+#ImgGIFTapp:hover {
+    opacity: 0.48;
+}
+
+#ImgGIFTwork:hover {
+    opacity: 0.48;
+    
+}
+
+#imgNTLweb:hover {
+    opacity: 0.48;
+}
+
+#imgVIcube1:hover {
+    opacity: 0.48;
+}
+
+#imgVIcube11:hover {
+    opacity: 0.48;
+}
+
+#imgVIGuide:hover {
+    opacity: 0.48;
+}
+
+#ImgVI1:hover {
+    opacity: 0.48;
+}
+
+#ImgVI2:hover {
+    opacity: 0.48;
+}
+
+#ImgVI3:hover {
+    opacity: 0.48;
+}
+
+#ImgVI5:hover {
+    opacity: 0.48;
+}
+
+#ImgVI4:hover {
+    opacity: 0.48;
+}
+
+#ImgVI6:hover {
+    opacity: 0.48;
+}
+
+ 
+#BoxNav1 {
+    float: left;
+    height: auto;
+    margin: 5% 0px 0% 6.5%;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+}
+ 
+#navGraphics:hover {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+ 
+#navGraphics:active {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+ 
+#navBranding:hover {
+    color: rgb(255, 184, 0);
+    font-weight: 400;
+    font-size: 0.9em;
+}
+ 
+#navBranding:active {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+ 
+#navBranding:focus {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+ 
+#navBranding {
+    float: left;
+    font-size: 0.8em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 0.9em;
+    margin-left: 4%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 0px;
+    text-transform: uppercase;
+}
+ 
+#navUI:hover {
+    color: rgb(255, 184, 0);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+ 
+#navUI:active {
+    color: rgb(255, 192, 32);
+    font-weight: 400;
+    font-size: 0.9em;
+}
+ 
+#navUI {
+    float: left;
+    font-size: 0.8em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 0px;
+    text-transform: uppercase;
+}
+ 
+#navGraphics {
+    float: left;
+    font-size: 0.8em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 4%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(68, 68, 72);
+    margin-right: 0px;
+    text-transform: uppercase;
+}
+ 
+#sectionContent {
+    float: left;
+    height: auto;
+    clear: none;
+    width: 79.999337%;
+    min-height: 50px;
+    min-width: 0px;
+    max-width: 80%;
+    position: absolute;
+    top: 18%;
+    left: 10%;
+    z-index: 2;
+    right: auto;
+    bottom: auto;
+}
+ 
+#ContactBkg {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+    max-width: 100%;
+    
+}
+ 
+#bkgcontact {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 100%;
+    
+}
+ 
+#ContactBox {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0%;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    
+}
+ 
+#TextTitle_Contact {
+    float: none;
+    font-size: 1.15em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 0.8%;
+    clear: none;
+    min-height: 0px;
+    
+    color: rgb(247, 247, 247);
+    letter-spacing: normal;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+  
+#BoxSocialIcon {
+    float: none;
+    height: auto;
+    margin: 16.301057% auto 0%;
+    clear: none;
+    width: 23.599419%;
+    min-height: 9.716107%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 0px;
+    max-width: 23.6%;
+    max-height: none;
+    padding-left: 0px;
+}
+
+#IconFacebook {
+    float: left;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 0px;
+    clear: none;
+    width: 17.993323%;
+    min-height: 0px;
+    min-width: 17.993323%;
+    max-width: 17.993323%;
+}
+
+#ImgFacebook img{
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    opacity: 0.9;
+    display: block;
+    -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+
+#iconsocial {
+    float: left;
+    height: auto;
+    margin-left: 12.5%;
+    margin-top: 0px;
+    clear: none;
+    width: 17.993323%;
+    min-height: 0px;
+    margin-right: 0%;
+    min-width: 17.993323%;
+    max-width: 17.993323%;
+}
+
+#Imggoogle {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    opacity: 1;
+    display: block;
+    -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#ImgBolgger {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    opacity: 1;
+    display: block;
+    -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#InfoBox {
+    float: left;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 4.8%;
+    clear: none;
+    width: 23.599419%;
+    min-height: 0px;
+    margin-right: 0px;
+    max-width: 23.6%;
+    min-width: 0px;
+}
+
+#infocontact {
+    float: none;
+    height: auto;
+    margin: 0% auto;
+    clear: none;
+    width: 100%;
+    min-height: 20px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 0px;
+    max-width: 100%;
+    max-height: none;
+    padding-left: 0px;
+    
+}
+
+#contactimg {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: auto;
+    clear: none;
+    width: 36px;
+    min-height: 0px;
+    min-width: 0px;
+    max-width: 36px;
+    padding-left: 0px;
+    margin-bottom: auto;
+    
+}
+
+#TxtContact1 {
+    float: left;
+    font-size: 0.75em;
+    width: 81.997891%;
+    height: auto;
+    text-align: left;
+    font-weight: 100;
+    line-height: 1.5em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    text-transform: none;
+    letter-spacing: 0px;
+    max-width: 82%;
+    min-width: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+    
+}
+
+#TxtContact {
+    float: left;
+    font-size: 0.75em;
+    text-align: center;
+    width: 17.597962%;
+    height: auto;
+    text-align: left;
+    font-weight: 100;
+    line-height: 1.5em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    text-transform: none;
+    letter-spacing: 0px;
+    max-width: 17.6%;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+}
+
+@media only screen and (max-width: 1920px) {
+ .photo-grid {
+		margin:0,0,0,0px;
+		padding:0,0,0,0px;
+	}
+	 
+ 
+	.photo-grid figcaption p {
+		font-size: 0.85em;
+		line-height: 1.6em;
+		top: -10px;    
+		width: auto;   
+		margin-left: 0%;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;
+		font-size: 0.93em;
+		line-height: 1.7em;
+		top: -6px;
+		width: auto;   
+		margin-left: 0%;
+	}
+
+
+/* Drop in the text */
+
+	.photo-grid figcaption p {
+		display: block;  
+		font-size: 0.85em;
+		font-weight: 100
+		line-height: 1.6em;
+		position: relative;
+		margin-top: -15% 
+		width: auto;	
+		max-width: 100%;
+		min-width: 100%;
+		height: auto;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;  
+		font-size: 0.93em;
+		font-weight: 200
+		line-height: 1.7em;
+		position: relative;
+	
+		left: 0px;
+		width: auto;	
+	}
+
+ 
+
+ 
+	#projecthovertxt {
+		left: 6%;
+		bottom:4%
+		max-width: 90%;
+		max-height: 30px
+		min-height: 30px;
+		position: absolute;
+		margin-top: 6%
+		margin-bottom: 4%
+		width: 100%;
+		height: auto;
+		z-index: 100;
+		cursor: crosshair;
+	}
+
+    
+    
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+ .photo-grid {
+		margin:0,0,0,0px;
+		padding:0,0,0,0px;
+	}
+	 
+ 
+	.photo-grid figcaption p {
+		font-size: 0.75em;
+		line-height: 1.5em;
+		top: -10px;    
+		width: auto;   
+		margin-left: 0%;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;
+		font-size: 0.83em;
+		line-height: 1.6em;
+		top: -6px;
+		width: auto;   
+		margin-left: 0%;
+	}
+
+
+/* Drop in the text */
+
+	.photo-grid figcaption p {
+		display: block;  
+		font-size: 0.75em;
+		font-weight: 100
+		line-height: 1.5em;
+		position: relative;
+		margin-top: -15% 
+		width: auto;	
+		max-width: 100%;
+		min-width: 100%;
+		height: auto;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;  
+		font-size: 0.83em;
+		font-weight: 200
+		line-height: 1.6em;
+		position: relative;
+	
+		left: 0px;
+		width: auto;	
+	}
+
+ 
+
+ 
+	#projecthovertxt {
+		left: 6%;
+		bottom:4%
+		max-width: 90%;
+		max-height: 30px
+		min-height: 30px;
+		position: absolute;
+		margin-top: 6%
+		margin-bottom: 4%
+		width: 100%;
+		height: auto;
+		z-index: 100;
+		cursor: crosshair;
+	}
+
+    
+    
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    #TitleBoxSummary {
+        width: auto;
+        clear: none;
+        margin: 8.927006% auto 2%;
+        float: none;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    #SummaryContent {
+        margin-top: 0%;
+        clear: none;
+        line-height: 1.5em;
+        font-size: 0.86em;
+        margin-left: 4.998748%;
+        margin-right: 0px;
+        float: left;
+    }
+
+    #Boxcompetence {
+        margin-top: 82.709403%;
+        clear: none;
+    }
+
+    #BoxDline {
+        width: 47.999875%;
+        margin-top: 2.003255%;
+        min-height: 23.272727%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    #summary {
+        font-size: 1.1em;
+    }
+
+    #position {
+        font-size: 0.68em;
+    }
+
+    #name {
+        font-size: 0.68em;
+    }
+
+    #portfolio {
+        font-size: 0.76em;
+    }
+
+    #experience {
+        font-size: 0.76em;
+    }
+
+    #about {
+        font-size: 0.76em;
+    }
+
+    #contact {
+        font-size: 0.76em;
+    }
+
+    #cv {
+        min-width: 100%;
+        width: 100%;
+        max-width: none;
+    }
+
+    #cvpdf {
+        max-width: none;
+        width: 110%;
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+        clear: none;
+        margin-top: 0px;
+    }
+
+    #cvdownload {
+        max-width: 110%;
+    }
+
+    #Imgcompetence {
+        min-width: 80%;
+    }
+
+    #competence {
+        width: 83.998191%;
+        max-width: 84%;
+        min-width: 72%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #TextTitle_Works {
+        font-size: 1.1em;
+    }
+
+    #TitleBox {
+        height: 44px;
+    }
+
+    #textspan1 {
+        font-size: 0.9em;
+        line-height: 1.5em;
+    }
+    
+    #Box_skillicons {
+        margin-top: 5.6%;
+    }
+
+    #text1 {
+        font-size: 0.88em;
+    }
+
+    #text2 {
+        font-size: 0.88em;
+    }
+
+    #Box_experienceTimeLine {
+        margin-top: 6.8%;
+    }
+
+    #Box_EducationTimeLine {
+        margin-top: 6.8%;
+    }
+
+    #ImgExperience {
+        margin-top: 3%;
+    }
+
+    #ImgEducation {
+        margin-top: 3%;
+    }
+
+    #TextTitle_Portfolio {
+        font-size: 1.1em;
+    }
+
+    #navUI {
+        font-size: 0.76em;
+    }
+
+    #navBranding {
+        font-size: 0.76em;
+    }
+
+    #navGraphics {
+        font-size: 0.76em;
+    }
+
+    #TextTitle_Contact {
+        font-size: 1.1em;
+    }
+
+    #InfoBox {
+        margin-top: 5.5%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #BoxSocialIcon {
+        margin-top: 5%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        height: 36px;
+        min-height: 0px;
+    }
+
+    #Txtfooter1 {
+        font-size: 0.6em;
+    }
+
+    #TxtContact1 {
+        font-size: 0.76em;
+    }
+
+    #TxtContact {
+        font-size: 0.76em;
+    }
+
+    #BoxgoTop {
+        min-height: 0px;
+        min-width: 5.46875%;
+        max-width: none;
+    }
+
+    #imgDline {
+        min-width: 36%;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #btnTop {
+        max-width: 80%;
+        width: 79.985119%;
+    }
+
+    #ImgdividerY {
+        max-width: 20%;
+        min-width: 0px;
+    }
+
+    #iconLego {
+        min-width: 100%;
+    }
+
+    #BoxFixedHeader {
+        min-height: 44px;
+    }
+    
+    .photo-grid {
+		margin:0,0,0,0px;
+		padding:0,0,0,0px;
+	}
+	 
+ 
+	.photo-grid figcaption p {
+		font-size: 0.68em;
+		line-height: 1.4em;
+		top: -10px;    
+		width: auto;   
+		margin-left: 0%;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;
+		font-size: 0.75em;
+		line-height: 1.5em;
+		top: -6px;
+		width: auto;   
+		margin-left: 0%;
+	}
+
+
+/* Drop in the text */
+
+	.photo-grid figcaption p {
+		display: block;  
+		font-size: 0.68em;
+		font-weight: 100
+		line-height: 1.4em;
+		position: relative;
+		margin-top: -15% 
+		width: auto;	
+		max-width: 100%;
+		min-width: 100%;
+		height: auto;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;  
+		font-size: 0.75em;
+		font-weight: 200
+		line-height: 1.5em;
+		position: relative;
+	
+		left: 0px;
+		width: auto;	
+	}
+
+ 
+
+ 
+	#projecthovertxt {
+		left: 6%;
+		bottom:4%
+		max-width: 90%;
+		max-height: 30px
+		min-height: 30px;
+		position: absolute;
+		margin-top: 5%
+		margin-bottom: 4%
+		width: 100%;
+		height: auto;
+		z-index: 100;
+		cursor: crosshair;
+	}
+
+    
+    
+}
+
+@media only screen and (max-width: 480px) {
+    #SummaryContent {
+        font-size: 0.68em;
+        line-height: 1.4em;
+        margin-top: 0%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        position: static;
+        top: 0px;
+        left: 0px;
+        width: 89.999521%;
+    }
+
+    #ImgPersona {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #WorkIconBox {
+    	width: auto;
+        min-width: 100%;
+        max-width: 100%;
+    }
+
+    #BoxWork {
+        min-width: 22.777489%;
+        width: 28.471862%;
+        max-width: 28.471862%;
+        margin-left: 4.74531%;
+        margin-top: 1.28%;
+        min-height: 19.057072%;
+        
+    }
+    
+    
+    #ImgScenario {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #UIText {
+        font-size: 0.64em;
+        line-height: 1.2em;
+        margin-top: 2%
+    }
+
+    #portfolio {
+        font-size: 0.6em;
+    }
+
+    #experience {
+        font-size: 0.6em;
+    }
+
+    #contact {
+        font-size: 0.6em;
+    }
+
+    #about {
+        font-size: 0.6em;
+    }
+
+    #BoxFixedHeader {
+        height: 30px;
+        min-height: 30px;
+        max-height: 30px;
+        min-width: auto;
+    }
+
+    #BoxLogo {
+        width: 13.059896%;
+    }
+    
+    #logo {
+        border-bottom-width: 0px;
+	}
+
+    #Box_photo {
+        width: 11.464844%;
+    }
+
+    #ImgConcept {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #boxUIWorkIcons {
+       
+	   margin-left: 2.1875%;
+	   
+    }
+
+    #summary {
+        font-size: 0.8em;
+        margin-top: 0%;
+        padding-left: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #TitleBoxSummary {
+        margin: 8.4% auto 2%;
+        clear: none;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 80%;
+        float: none;
+    }
+
+    #name {
+        font-size: 0.6em;
+    }
+
+    #position {
+        font-size: 0.6em;
+    }
+
+    #cvpdf {
+        min-width: 68px;
+        max-width: none;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 0px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    #Boxcompetence {
+        margin-top: 0%;
+        clear: none;
+        min-width: 100%;
+        width: 100%;
+    }
+
+    #Imgcompetence {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #competence {
+        margin-left: 6%;
+        margin-right: 0px;
+        float: left;
+        clear: none;
+        min-width: 86%;
+        width: 86%;
+        max-width: none;
+        margin-top: 0px;
+        min-height: 0px;
+        height: auto;
+    }
+
+    #BoxSummary {
+        width: 68%;
+    }
+
+    #TextTitle_Works {
+        font-size: 0.9em;  /* 0.8em;*/
+    }
+    
+    #Box_experienceTimeLine {
+        margin-top: 3.723958%;
+        clear: none;
+        width: 92%;
+        max-width: none;
+        min-width: 0px;
+    }
+
+    #Box_EducationTimeLine {
+        margin-top: 3.72%;
+        clear: none;
+        width: 92%;
+        max-width: none;
+        min-width: 90%;
+    }
+
+
+    #TextTitle_Contact {
+        font-size: 0.9em;
+    }
+
+    #TxtContact1 {
+        font-size: 0.56em;
+        max-width: 88%;
+        width: 81.98979%;
+    }
+
+    #TxtContact {
+        font-size: 0.56em;
+        width: 17.594681%;
+    }
+
+    #infocontact {
+        max-width: 96.774194%;
+        width: 96.771599%;
+        min-width: 96.774194%;
+    }
+
+    #InfoBox {
+        max-width: 35.42%;
+        width: 35.418108%;
+        min-width: 0px;
+        margin-left: auto;
+        margin-top: 5%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #Txtfooter1 {
+        font-size: 0.5em;
+    }
+
+    #BoxFooter {
+        height: 25px;
+        min-height: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sectionHeader {
+        width: 100%;
+    }
+
+    #sectionSummary {
+        width: 100%;
+    }
+
+    #sectionProcess {
+        width: 100%;
+    }
+
+    #sectionWorks {
+        width: 100%;
+    }
+
+    #sectionSkills {
+        width: 100%;
+    }
+
+    #sectionExperience {
+        width: 100%;
+    }
+
+    #sectionPortfolio {
+        width: 100%;
+    }
+
+    #sectionToolsnInterest {
+        width: 100%;
+    }
+
+    #sectionContact {
+        width: 100%;
+    }
+
+    #BoxThings {
+        margin-top: 4.8%;
+        clear: none;
+        width: 75%;
+        min-width: 0px;
+        margin-bottom: 4.8%;
+        padding-left: 4.14%;
+    }
+
+    #BoxTools {
+        margin-top: 4.8%;
+        min-height: 0px;
+        width: 75%;
+        min-width: 0px;
+        padding-left: 4.139583%;
+        margin-bottom: 4.8%;
+    }
+
+    #BoxSGraphic {
+        min-width: 25%;
+        width: 25%;
+    }
+
+
+/*    #imggraphics10 {
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 0px;
+        clear: none;
+    }
+    
+    #imggraphics11 {
+        clear: none;
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+    }
+    
+    */
+    
+    
+
+    #ImgiReserveKiosk:hover {
+        width: auto;
+        height: auto;
+    }
+
+    #ImggoTop {
+        min-width: 95.21153%;
+        max-width: 100%;
+        min-height: 0px;
+        height: auto;
+    }
+
+    #btnTop {
+        min-width: 100%;
+        width: auto;
+        min-height: 0px;
+        max-width: none;
+    }
+
+    #BoxgoTop {
+        min-height: 33.61px;
+        height: auto;
+    }
+
+    #TextTitle_Portfolio {
+        font-size: 0.9em;
+    }
+
+    #navGraphics {
+        font-size: 0.6em;
+    }
+
+    #navUI {
+        font-size: 0.6em;
+    }
+
+    #navBranding {
+        font-size: 0.6em;
+    }
+
+    #text1 {
+        font-size: 0.6em;
+    }
+
+    #text2 {
+        font-size: 0.6em;
+    }
+
+    #Box_skillicons {
+        margin-top: 3.88%;
+        margin-bottom: 6%;
+        width: 92%;
+        max-width: 92%;
+        min-width: 0px;
+    }
+
+    #BigBoxContent {
+        top: 18%;
+        bottom: auto;
+    }
+
+    #ImgEducation {
+        min-width: 90%;
+        margin-bottom: 4.8%;
+    }
+
+    #ImgExperience {
+        min-width: 90%;
+        margin-top: 4.8%;
+        margin-bottom: 4.8%;
+    }
+
+    #TitleBox {
+        height: 36px;
+        margin-top: 6%;
+    }
+
+   /* #ProblemSolving {
+        display: none;
+    }
+
+    #BoxWork15 {
+        min-height: 20px;
+        display: none;
+    } 
+
+    #BoxDesignWork3 {
+        display: none;
+    }
+    */
+
+    #ImgSolution {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #ImgFlow {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #ImgWireframe {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #ImgInteraction {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+
+    #ImgPrototype {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #ImgABtesting {
+        min-width: 80%;
+        max-width: 100%;
+        
+    }
+
+    #BoxProcessIcons {
+        width: 88%;
+        margin-top: 4%;
+        margin-bottom: 8%;
+    }
+
+    #ImgMoodBoard {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #ImgIconDesign {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+   
+    #ImgUIdesign {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #BoxDesignWork {
+        width: 28.472917%;
+        max-width: 28.472917%;
+        min-height: 73.08%;
+        min-width: 22.778334%;
+        margin-left: 4.745486%;
+        margin-top: 1.28%;
+    }
+    
+    
+
+
+/*    #BoxDesignWork {
+        width: auto;
+        max-width: 100%;
+        min-width: 100%;
+    }
+    */
+
+    #ImgIdentity {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #textspan {
+        font-size: 1em;
+        line-height: normal;
+    }
+
+
+
+    #ImgGraphics {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+
+    #Img3DPrinting {
+        min-width: 80%;
+        max-width: 100%;
+    }
+
+    #iconempathize {
+        width: 14.204861%;
+        margin-left: 0%;
+        max-width: 14.204861%;
+        min-width: 0px;
+    }
+    
+    #iconprocess {
+        margin-left: 2.88%;
+        width: 14.197462%;
+        max-width: 14.2%;
+        min-width: 0px;
+    }
+
+/*    #ideate {
+        margin-left: 2.88%;
+        width: 14.197462%;
+        max-width: 14.2%;
+        min-width: 0px;
+    }
+
+    #prototype {
+        margin-left: 2.88%;
+        width: 14.197462%;
+        max-width: 14.2%;
+        min-width: 0px;
+    }
+
+    #test {
+        margin-left: 2.88%;
+        width: 14.197462%;
+        max-width: 14.204861%;
+    }
+
+    #design {
+        margin-left: 2.88%;
+        width: 14.204861%;
+        max-width: 14.204861%;
+    }
+*/
+    #IconBox {
+        margin-left: 6.3%;
+    }
+
+
+    #boxDesignWorkIcons {
+        margin-left: 2.1875%;
+    }
+
+    #BoxDline {
+        margin-top: 3%;
+        width: 90%;
+        max-width: none;
+        min-width: 0px;
+        clear: none;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        min-height: 5px;
+    }
+
+    #imgDline {
+        min-width: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        max-width: 60%;
+    }
+
+    #BoxSocialIcon {
+        min-height: 0px;
+        margin-top: 4%;
+    }
+
+/*    #contactimg {
+        width: 36px;
+    } */
+
+/*    #Box_TEXT1 {
+        width: 60%;
+    }
+ */
+
+    #Box_TEXT {
+        width: 60%;
+    }
+
+    #ImgdividerY {
+        max-width: 10%;
+        width: auto;
+        margin-top: 1.2%;
+    }
+
+    #ImgResume {
+        margin-left: 18.960359%;
+        margin-top: 0px;
+        clear: none;
+    }
+
+
+    #iconLego {
+        min-width: 100%;
+        max-width: 100%;
+    }
+
+    #Imgmac {
+        margin-bottom: 0px;
+    }
+
+    #toolimg {
+        min-width: 9.375%;
+        width: 13.888889%;
+        max-width: none;
+        margin-right: 6%;
+        margin-bottom: 3.6%;
+        min-height: 0px;
+    }
+
+    #toolimg1 {
+        width: 13.89%;
+        min-width: 9.38%;
+        max-width: none;
+        margin-left: 0%;
+        margin-right: 6%;
+        margin-bottom: 3.6%;
+        min-height: 0px;
+    }
+
+	#toolimgbike {
+        min-width: 9.375%;
+        width: 13.888889%;
+        max-width: none;
+        margin-right: 6%;
+        margin-left: 0;
+        margin-bottom: 3.6%;
+        min-height: 0px;
+        clear: both;
+    }
+ 
+	.photo-grid {
+		margin:0,0,0,0px;
+		padding:0,0,0,0px;
+	}
+	 
+ 
+	.photo-grid figcaption p {
+		font-size: 0.5em;
+		line-height: 1.25em;
+		top: -10px;    
+		width: auto;   
+		margin-left: 0%;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;
+		font-size: 0.56em;
+		line-height: 1.35em;
+		top: -6px;
+		width: auto;   
+		margin-left: 0%;
+	}
+
+
+/* Drop in the text */
+
+	.photo-grid figcaption p {
+		display: block;  
+		font-size: 0.5em;
+		font-weight: 100
+		line-height: 1.25em;
+		position: relative;
+		margin-top: -15% 
+		width: auto;	
+		max-width: 100%;
+		min-width: 100%;
+		height: auto;
+	}
+
+	.photo-grid figcaption h2 {
+		display: block;  
+		font-size: 0.56em;
+		font-weight: 200
+		line-height: 1.35em;
+		position: relative;
+	
+		left: 0px;
+		width: auto;	
+	}
+
+ 
+
+ 
+	#projecthovertxt {
+		left: 6%;
+		bottom:4%
+		max-width: 90%;
+		max-height: 30px
+		min-height: 30px;
+		position: absolute;
+		margin-top: 4.8%
+		margin-bottom: 4%
+		width: 100%;
+		height: auto;
+		z-index: 100;
+		cursor: crosshair;
+	}
+
+}
+
